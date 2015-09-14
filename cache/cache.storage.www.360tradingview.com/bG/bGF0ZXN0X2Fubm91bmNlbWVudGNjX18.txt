@@ -1,0 +1,1 @@
+a:4:{s:5:"value";a:3:{s:2:"id";s:4:"5019";s:2:"an";s:17:"cometchat_testing";s:1:"t";s:10:"1434373977";}s:10:"write_time";s:10:"1434915935";s:10:"expired_in";i:3600;s:12:"expired_time";i:1434919535;}
